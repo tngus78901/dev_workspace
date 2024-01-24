@@ -1,0 +1,62 @@
+2023.01.24
+1st class
+
+내가 공부한거 블로그에 정리 - 기본
+학원에서 준 기본 양식, 강사님이 주시는 양식
+2가지 양식으로 이력서 작성 
+
+기술면접 준비 
+실무면접
+
+it용어 정리 : 기본적으로 알기
+
+mybatis기준으로 프로젝트 진행 취업률이 높음
+
+WAS가 뭐에여 필수 질문
+
+db : join | sub query 정도는 기본으로 해둘 것
+수업노트에 1일 1쿼리 문제 만들기 : 내가 직접
+
+dart/flutter 선언형 UI Framework
+
+database : mysql 기준
+
+오늘 목표 
+컴퓨터 환경 설정
+http 인코딩 다 보는 것
+mysql root pw : asd1234
+
+SI : 미팅많음
+
+1월 31일까지
+제목 : 24.3.28 단기심화 000 입사지원서
+
+
+자격증은 full name 쓰기
+
+한글이나 word 파일로 수정가능하게 실장님께 보내기
+8.0.26 mysql
+
+개발할 때 필요한 것은 한 곳에 모아두는 습관!
+
+db에서 join / sub query / function까지는 할 수 있어야한다.
+
+테이블 설계 : 
+
+
+mysql 환경변수설정 /시스템 환경변수 편집 /path
+C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+cd c:empoloyees
+mysql -u root -p
+source employees.sql;
+show databases;
+
+jdk windows installer 
+sts 4.21.0 windows X86_64
+
+cmd java version 확인 후 jdk 환경변수 설정
+sts는 환경변수 설정 할 필요없다.
+
+
+1일 1쿼리
